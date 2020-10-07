@@ -1,4 +1,5 @@
 // This is a javascript script to test my javascript!
+// Script will not work if Brave's Shields are up.  Turn off shields to allow the script to run.
 let myButton = document.querySelector('#buttonOne');
 let myHeading = document.querySelector('h1');
 let myFooter = document.querySelector('footer');
